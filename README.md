@@ -1,1 +1,2 @@
-# loyality-vuejs
+Ton contenu local
+Contenu distant
